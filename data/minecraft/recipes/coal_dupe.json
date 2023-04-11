@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#L#",
+    "LCL",
+    "#L#"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "L": {
+      "item": "minecraft:oak_log"
+    },
+    "#": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "minecraft:coal",
+    "count": 4
+  }
+}

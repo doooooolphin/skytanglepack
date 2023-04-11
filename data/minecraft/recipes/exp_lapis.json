@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:lapis_lazuli"
+    },
+    "result": "minecraft:cooked_cod",
+    "experience": 12,
+    "cookingtime": 600,
+    "group": "minecraft"
+}

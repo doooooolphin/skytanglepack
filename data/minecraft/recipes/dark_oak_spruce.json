@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:spruce_log"
+    },
+    "result": "minecraft:dark_oak_log",
+    "experience": 200,
+    "cookingtime": 12000
+}

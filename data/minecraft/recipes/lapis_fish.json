@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "!$!",
+    "@#@",
+    "!$!"
+  ],
+  "key": {
+    "!": {
+      "item": "minecraft:cobblestone"
+    },
+    "@": {
+      "item": "minecraft:cod"
+    },
+    "$": {
+      "item": "minecraft:salmon"
+    },
+    "#": {
+      "item": "minecraft:pufferfish"
+    }
+  },
+  "result": {
+    "item": "minecraft:lapis_ore",
+    "count": 1
+  }
+}

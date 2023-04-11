@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "!@!",
+    "@#@",
+    "!@!"
+  ],
+  "key": {
+    "!": {
+      "item": "minecraft:cobblestone"
+    },
+    "@": {
+      "item": "minecraft:iron_ore"
+    },
+    "#": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:copper_ore",
+    "count": 1
+  }
+}

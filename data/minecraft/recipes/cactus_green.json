@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "@@@",
+    "@@@",
+    "@@@"
+  ],
+  "key": {
+    
+    "@": {
+      "item": "minecraft:cactus"
+    }
+  },
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 1
+  }
+}

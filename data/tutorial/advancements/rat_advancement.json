@@ -1,0 +1,31 @@
+{
+    "__comment": "Made with my advancements generator",
+    "display": {
+        "icon": {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        "title": {
+            "text": "Advancement"
+        },
+        "description": {
+            "text": "Description"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minecraft:rat_recipe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "minecraft:give_rat"
+    }
+}

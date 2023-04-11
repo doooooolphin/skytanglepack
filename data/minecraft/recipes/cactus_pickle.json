@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "@@@",
+    "@@@",
+    "@@@"
+  ],
+  "key": {
+    
+    "@": {
+      "item": "minecraft:sea_pickle"
+    }
+  },
+  "result": {
+    "item": "minecraft:cactus",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:cactus"
+    },
+    "result": "minecraft:charcoal",
+    "experience": 2,
+    "cookingtime": 100,
+    "group": "minecraft"
+}

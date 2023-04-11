@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:cactus"
+    },
+    "result": "minecraft:sea_pickle",
+    "group": "minecraft",
+    "count": 9
+}

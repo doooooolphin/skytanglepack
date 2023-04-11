@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:green_dye"
+    },
+    "result": "minecraft:cactus",
+    "group": "minecraft",
+    "count": 9
+}
