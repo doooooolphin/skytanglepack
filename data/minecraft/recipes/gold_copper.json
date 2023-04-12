@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "#c#",
+      "cHc",
+      "#c#"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:cobblestone"
+      },
+      "c": {
+          "item": "minecraft:copper_ingot"
+      },
+      "H": {
+          "item": "minecraft:hay_block"
+      }
+  },
+  "result": {
+      "item": "minecraft:gold_ore",
+      "count": 1
+  }
+}
