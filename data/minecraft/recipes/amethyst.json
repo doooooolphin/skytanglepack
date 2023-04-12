@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#I#",
+        "WOW",
+        "WLW"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:warped_nylium"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        },
+        "W": {
+            "item": "minecraft:warped_hyphae"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:amethyst_shard",
+        "count": 1
+    }
+}
