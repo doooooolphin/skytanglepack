@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "$@!",
+    "@#@",
+    "!@$"
+  ],
+  "key": {
+    "!": {
+      "item": "minecraft:iron_ingot"
+    },
+    "@": {
+      "item": "minecraft:birch_log"
+    },
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "$": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "minecraft:quartz",
+    "count": 1
+  }
+}
