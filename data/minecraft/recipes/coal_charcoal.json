@@ -1,22 +1,15 @@
 {
-  "type": "crafting_shaped",
-  "pattern": [
-    "###",
-    "#CL",
-    "###"
-  ],
-  "key": {
-    "C": {
-      "item": "minecraft:charcoal"
-    },
-    "L": {
-      "item": "minecraft:oak_log"
-    },
-    "#": {
-      "item": "minecraft:air"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:charcoal"
+        },
+        {
+            "item": "minecraft:oak_log"
+        }
+    ],
+    "result": {
+        "item": "minecraft:coal",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:coal"
-  }
 }

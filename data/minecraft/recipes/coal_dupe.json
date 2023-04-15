@@ -1,9 +1,9 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "#L#",
+    " L ",
     "LCL",
-    "#L#"
+    " L "
   ],
   "key": {
     "C": {
@@ -11,9 +11,6 @@
     },
     "L": {
       "item": "minecraft:oak_log"
-    },
-    "#": {
-      "item": "minecraft:air"
     }
   },
   "result": {
