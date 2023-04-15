@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:dried_kelp"
+    },
+    "result": "minecraft:cod_spawn_egg",
+    "group": "minecraft",
+    "count": 1
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:dried_kelp_block"
+    },
+    "result": "minecraft:tropical_fish_spawn_egg",
+    "group": "minecraft",
+    "count": 1
+}
