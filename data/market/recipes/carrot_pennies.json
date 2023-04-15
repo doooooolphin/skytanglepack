@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:carrot"
+    },
+    "result": "minecraft:sea_pickle",
+    "count": 3
+}
