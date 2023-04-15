@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "item": "minecraft:green_dye"
+        "item": "minecraft:dried_kelp"
     },
     "result": "minecraft:goat_horn",
     "group": "minecraft",

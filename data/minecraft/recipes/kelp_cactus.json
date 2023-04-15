@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "@@@",
+    "@@@",
+    "@@@"
+  ],
+  "key": {
+    
+    "@": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:dried_kelp",
+    "count": 1
+  }
+}

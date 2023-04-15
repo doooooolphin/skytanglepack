@@ -3,7 +3,7 @@
     "ingredient": {
         "item": "minecraft:dried_kelp_block"
     },
-    "result": "minecraft:name_tag",
+    "result": "minecraft:dried_kelp",
     "group": "minecraft",
-    "count": 3
+    "count": 9
 }

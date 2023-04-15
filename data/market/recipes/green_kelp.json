@@ -3,7 +3,7 @@
     "ingredient": {
         "item": "minecraft:dried_kelp"
     },
-    "result": "minecraft:disc_fragment_5",
+    "result": "minecraft:green_dye",
     "group": "minecraft",
-    "count": 3
+    "count": 9
 }
