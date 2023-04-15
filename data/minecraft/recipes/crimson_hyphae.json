@@ -1,18 +1,29 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        "###",
-        "###"
+        "gCi",
+        "NHN",
+        "iNg"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:crimson_stem"
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "C": {
+            "item": "minecraft:crimson_fungus"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "N": {
+            "item": "minecraft:netherrack"
+        },
+        "H": {
+            "item": "minecraft:crimson_hyphae"
         }
     },
     "result": {
-        "item": "minecraft:crimson_hyphae",
+        "item": "minecraft:crimson_nylium",
         "count": 1
-    },
-    "group": "wood"
+    }
 }
