@@ -1,0 +1,32 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "@!@",
+    "$#$",
+    "%^%"
+  ],
+  "key": {
+    "!": {
+      "item": "minecraft:iron_ingot"
+    },
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "@": {
+      "item": "minecraft:crimson_hyphae"
+    },
+    "$": {
+      "item": "minecraft:crimson_nylium"
+    },
+    "%": {
+      "item": "minecraft:lava_bucket"
+    },
+    "^": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "item": "minecraft:redstone_block",
+    "count": 1
+  }
+}
