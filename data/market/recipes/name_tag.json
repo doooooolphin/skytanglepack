@@ -3,7 +3,7 @@
     "ingredient": {
         "item": "minecraft:green_dye"
     },
-    "result": "minecraft:infested_cobblestone",
+    "result": "minecraft:name_tag",
     "group": "minecraft",
-    "count": 3
+    "count": 1
 }

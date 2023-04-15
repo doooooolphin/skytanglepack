@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:music_disc_5"
+    },
+    "result": "minecraft:music_disc_pigstep",
+    "experience": 200,
+    "cookingtime": 2200
+}
