@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:diamond_block"
+    },
+    "result": "minecraft:debug_stick",
+    "group": "minecraft",
+    "count": 1
+}
