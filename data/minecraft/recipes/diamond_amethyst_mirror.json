@@ -1,9 +1,9 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "!%$",
+    "$%!",
     "@#@",
-    "$%!"
+    "!%$"
   ],
   "key": {
     "!": {
@@ -13,17 +13,14 @@
       "item": "minecraft:amethyst_shard"
     },
     "#": {
-      "item": "minecraft:iron_block"
+      "item": "minecraft:cobblestone"
     },
     "$": {
-      "item": "minecraft:pufferfish"
-    }
-    "%": {
-      "item": "minecraft:coal_block"
+      "item": "minecraft:coal"
     }
   },
   "result": {
-    "item": "minecraft:diamond",
+    "item": "minecraft:quartz",
     "count": 1
   }
 }
