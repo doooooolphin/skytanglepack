@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:dried_kelp"
+    },
+    "result": "minecraft:sea_lantern",
+    "count": 16
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:lava_bucket"
+    },
+    "result": "minecraft:green_dye",
+    "count": 3
+}
