@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "#I#",
-        "WOW",
+        "WCW",
         "WLW"
     ],
     "key": {
@@ -15,8 +15,8 @@
         "W": {
             "item": "minecraft:warped_hyphae"
         },
-        "O": {
-            "item": "minecraft:obsidian"
+        "C": {
+            "item": "minecraft:coal_block"
         },
         "L": {
             "item": "minecraft:lava_bucket"

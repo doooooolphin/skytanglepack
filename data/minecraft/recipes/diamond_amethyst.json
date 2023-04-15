@@ -1,29 +1,29 @@
 {
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    "!%$",
-    "@#@",
-    "$%!"
+      "#CL",
+      "AIA",
+      "LC#"
   ],
   "key": {
-    "!": {
-      "item": "minecraft:tropical_fish"
-    },
-    "@": {
-      "item": "minecraft:amethyst_shard"
-    },
-    "#": {
-      "item": "minecraft:iron_block"
-    },
-    "$": {
-      "item": "minecraft:pufferfish"
-    }
-    "%": {
-      "item": "minecraft:coal_block"
-    }
+      "#": {
+          "item": "minecraft:tropical_fish"
+      },
+      "C": {
+          "item": "minecraft:coal_block"
+      },
+      "L": {
+          "item": "minecraft:lapis_lazuli"
+      },
+      "A": {
+          "item": "minecraft:amethyst_shard"
+      },
+      "I": {
+          "item": "minecraft:iron_block"
+      }
   },
   "result": {
-    "item": "minecraft:diamond",
-    "count": 1
+      "item": "minecraft:diamond",
+      "count": 1
   }
 }
