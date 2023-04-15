@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:salmon"
-    },
-    "result": "minecraft:cactus",
-    "count": 2
-}
