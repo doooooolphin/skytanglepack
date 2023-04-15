@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:dried_kelp"
+    },
+    "result": "minecraft:music_disc_blocks",
+    "count": 1
+}
