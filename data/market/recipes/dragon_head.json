@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:dried_kelp_block"
+    },
+    "result": "minecraft:dragon_head",
+    "group": "minecraft",
+    "count": 1
+}
