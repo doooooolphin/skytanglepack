@@ -3,6 +3,6 @@
     "ingredient": {
         "item": "minecraft:wheat"
     },
-    "result": "minecraft:cactus",
-    "count": 1 
+    "result": "minecraft:sea_pickle",
+    "count": 5 
 }
