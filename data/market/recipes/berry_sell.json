@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:sweet_berries"
+    },
+    "result": "minecraft:sea_pickle",
+    "count": 2
+}
